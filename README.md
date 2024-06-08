@@ -1,4 +1,4 @@
-# Data-Visualization-Project---COVID-19-Texas-Counties-Mobility-Reports
+COVID-19-Texas Mbility Reports
 Project Title - ‘Texas Mobility Insights: Navigating the Impact of COVID-19 Policies’
 
 Project Overview: This project focuses on evaluating the impacts of COVID-19 policies on human mobility within Texas, targeting specific counties such as Anderson, Dallas, Denton, and others. By harnessing anonymized data from Google's COVID-19 Community Mobility Reports, this study delves into daily changes in people’s movements to various locations, aiming to understand the behavioral shifts due to pandemic-related measures.
